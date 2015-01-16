@@ -63,6 +63,8 @@ dev.copy(png, file="hist2.png", height=480, width=480)
 dev.off()
 ```
 
+![hist2](instructions_fig/hist2.png)
+
 ###Which 5-minute interval, on average across all the days in the dataset, contains the maximum number of steps?
 
 ```{r}
@@ -118,6 +120,8 @@ dev.copy(png, file="hist3.png", height=480, width=480)
 dev.off()
 ```
 
+![hist3](instructions_fig/hist3.png)
+
 ###Mean and Median
 
 ```{r}
@@ -155,6 +159,8 @@ for (type in c("weekend", "weekday")) {
 dev.copy(png, file="hist4.png", height=480, width=480)
 dev.off()
 ```
+
+![hist4](instructions_fig/hist4.png)
 
 #Hope is clear enough to Reproduce! thanks!!
 
