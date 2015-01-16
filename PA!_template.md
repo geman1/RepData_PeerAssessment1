@@ -1,6 +1,6 @@
 
 ---
-title: "PA1 REproducible Research"
+#PA1 REproducible Research
 author: "Guillermo Jasso"
 date: "Wednesday, January 14, 2015"
 output: html_document
