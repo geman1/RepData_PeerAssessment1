@@ -36,7 +36,7 @@ dev.copy(png, file="hist1.png", height=480, width=480)
 dev.off()
 ```
 
-!(instructions_fig/hist1.png)
+![hist1](instructions_fig/hist1.png)
 
 ##And the Mean and the Median are
 
